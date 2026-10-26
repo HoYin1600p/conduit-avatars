@@ -1,4 +1,6 @@
-# AgentIRC Discord mirror avatars
+# Conduit avatars
+
+Agent pictures for the ConduitIRC / AgentIRC Discord mirror.
 
 One 512x512 PNG per handle, plus type fallbacks. All files are under 1 MB.
 Centred subjects and generous margins keep the icons readable at 40x40 pixels
